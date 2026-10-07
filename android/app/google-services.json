@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "98498777729",
+    "project_id": "drox-e5e37",
+    "storage_bucket": "drox-e5e37.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98498777729:android:f8f43fbdaee15ea2277380",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7R_ligpfqLw81vp0tUgQYHZtxgJX-Veo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
